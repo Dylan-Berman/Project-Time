@@ -9,9 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hocuspocus/transformer": "^2.8.0",
+    "@supabase/supabase-js": "^2.38.5",
+    "@tiptap/extension-collaboration": "^2.1.12",
+    "@tiptap/extension-collaboration-cursor": "^2.1.12",
+    "@tiptap/pm": "^2.1.13",
+    "@tiptap/react": "^2.1.13",
+    "@tiptap/starter-kit": "^2.1.13",
     "next": "14.0.4",
+    "partysocket": "0.0.17",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "y-partykit": "^0.0.10",
+    "y-prosemirror": "^1.0.20"
   },
   "devDependencies": {
     "@headlessui/react": "^1.7.17",
@@ -20,6 +30,7 @@
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
+    "partykit": "0.0.47",
     "postcss": "^8",
     "tailwindcss": "^3.3.0"
   }

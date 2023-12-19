@@ -1,0 +1,5 @@
+{
+  "name": "flamingo-party",
+  "main": "party/index.js",
+  "compatibilityDate": "2023-12-19"
+}
